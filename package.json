@@ -3,5 +3,6 @@
   "scripts": {
     "build": "tsc",
     "start": "node dist/server/src/index.js"
+    "packageManager": "pnpm@8"
   }
 }
